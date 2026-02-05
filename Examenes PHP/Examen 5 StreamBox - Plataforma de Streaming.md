@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Examen 5: StreamBox - Plataforma de Streaming"
+---
+
 # EXAMEN 5: StreamBox — Plataforma de Streaming
 
 ## EXAMEN UF1 — Avaluació RA3 (5 punts)

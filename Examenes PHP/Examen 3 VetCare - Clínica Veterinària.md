@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Examen 3: VetCare - Clínica Veterinària"
+---
+
 # EXAMEN 3: VetCare — Clínica Veterinària
 
 ## EXAMEN UF1 — Avaluació RA3 (5 punts)

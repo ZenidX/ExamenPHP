@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Examen 1: BiblioTech - Gestió de Biblioteca"
+---
+
 # EXAMEN 1: BiblioTech — Gestió de Biblioteca
 
 ## EXAMEN UF1 — Avaluació RA3 (5 punts)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Examen 2: GameZone - Torneig de Videojocs"
+---
+
 # EXAMEN 2: GameZone — Torneig de Videojocs
 
 ## EXAMEN UF1 — Avaluació RA3 (5 punts)

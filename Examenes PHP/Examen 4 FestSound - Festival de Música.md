@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Examen 4: FestSound - Festival de Música"
+---
+
 # EXAMEN 4: FestSound — Festival de Música
 
 ## EXAMEN UF1 — Avaluació RA3 (5 punts)
