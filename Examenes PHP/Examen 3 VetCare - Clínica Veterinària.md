@@ -57,8 +57,10 @@ EXAMEN RA3 — VetCare (Clínica Veterinària)
 ### ENTREGA
 
 S'ha de penjar tot al Moodle abans de finalitzar l'hora d'examen.
-Es pot entregar mitjançant un archiu comprimit .zip o url a un repositori de github public o on zenidx sigui colaborador.
-Per a aquest examen si que es tindrà en compte l'última versió/commit que hi hagi al repositori amb data dintre de l'hora d'examen.
+Es pot entregar mitjançan:
+
+- un archiu comprimit .zip
+- url a un repositori de github public o on zenidx sigui colaborador. Per a aquest examen si que es tindrà en compte l'última versió/commit que hi hagi al repositori amb data dintre de l'hora d'examen.
 
 ## 💾 vetcare.sql
 
