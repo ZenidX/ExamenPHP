@@ -3,10 +3,6 @@ layout: default
 title: Examenes PHP
 ---
 
-# Examenes PHP
-
-Colección de exámenes prácticos de PHP.
-
 ## Lista de Exámenes
 
 1. [Examen 1: BiblioTech - Gestió de Biblioteca](Examenes%20PHP/Examen%201%20BiblioTech%20-%20Gestió%20de%20Biblioteca)
